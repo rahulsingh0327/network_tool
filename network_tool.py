@@ -1,4 +1,3 @@
-from server import mcp
 import subprocess
 import socket
 import sys
